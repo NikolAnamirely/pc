@@ -1,0 +1,238 @@
+2022-07-07 10:27:49,163:INFO:Initializing load_model()
+2022-07-07 10:27:49,164:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:27:49,841:INFO:Initializing load_model()
+2022-07-07 10:27:49,841:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:28:35,812:INFO:Initializing load_model()
+2022-07-07 10:28:35,813:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:28:36,944:INFO:Initializing load_model()
+2022-07-07 10:28:36,944:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:28:37,895:INFO:Initializing load_model()
+2022-07-07 10:28:37,895:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:28:44,834:INFO:Initializing load_model()
+2022-07-07 10:28:44,834:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:28:44,959:INFO:Initializing load_model()
+2022-07-07 10:28:44,959:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:28:45,008:INFO:Initializing predict_model()
+2022-07-07 10:28:45,008:INFO:predict_model(estimator=SVC(C=100, kernel='linear'), probability_threshold=None, encoded_labels=True, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-07-07 10:28:45,009:INFO:Checking exceptions
+2022-07-07 10:28:45,017:INFO:Preloading libraries
+2022-07-07 10:28:45,018:ERROR:Pipeline not found. Exception:
+2022-07-07 10:28:45,024:ERROR:Traceback (most recent call last):
+  File "D:\Programas\miniconda\app\envs\ApiCrop\lib\site-packages\pycaret\internal\tabular.py", line 8292, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
+2022-07-07 10:30:26,081:INFO:Initializing load_model()
+2022-07-07 10:30:26,081:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:36,275:INFO:Initializing load_model()
+2022-07-07 10:30:36,286:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:37,408:INFO:Initializing load_model()
+2022-07-07 10:30:37,409:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:38,414:INFO:Initializing load_model()
+2022-07-07 10:30:38,419:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:39,250:INFO:Initializing load_model()
+2022-07-07 10:30:39,251:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:40,045:INFO:Initializing load_model()
+2022-07-07 10:30:40,054:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:41,608:INFO:Initializing load_model()
+2022-07-07 10:30:41,609:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:42,492:INFO:Initializing load_model()
+2022-07-07 10:30:42,503:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:43,397:INFO:Initializing load_model()
+2022-07-07 10:30:43,398:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:44,267:INFO:Initializing load_model()
+2022-07-07 10:30:44,270:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:45,815:INFO:Initializing load_model()
+2022-07-07 10:30:45,818:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:46,517:INFO:Initializing load_model()
+2022-07-07 10:30:46,521:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:47,449:INFO:Initializing load_model()
+2022-07-07 10:30:47,456:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:48,603:INFO:Initializing load_model()
+2022-07-07 10:30:48,604:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:49,966:INFO:Initializing load_model()
+2022-07-07 10:30:49,966:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:50,722:INFO:Initializing load_model()
+2022-07-07 10:30:50,723:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:51,553:INFO:Initializing load_model()
+2022-07-07 10:30:51,553:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:52,464:INFO:Initializing load_model()
+2022-07-07 10:30:52,469:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:54,033:INFO:Initializing load_model()
+2022-07-07 10:30:54,034:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:54,850:INFO:Initializing load_model()
+2022-07-07 10:30:54,853:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:56,372:INFO:Initializing load_model()
+2022-07-07 10:30:56,372:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:57,067:INFO:Initializing load_model()
+2022-07-07 10:30:57,071:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:57,941:INFO:Initializing load_model()
+2022-07-07 10:30:57,941:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:30:59,563:INFO:Initializing load_model()
+2022-07-07 10:30:59,572:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:01,216:INFO:Initializing load_model()
+2022-07-07 10:31:01,222:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:05,340:INFO:Initializing load_model()
+2022-07-07 10:31:05,355:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:06,795:INFO:Initializing load_model()
+2022-07-07 10:31:06,795:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:08,425:INFO:Initializing load_model()
+2022-07-07 10:31:08,425:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:09,213:INFO:Initializing load_model()
+2022-07-07 10:31:09,213:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:10,062:INFO:Initializing load_model()
+2022-07-07 10:31:10,072:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:11,254:INFO:Initializing load_model()
+2022-07-07 10:31:11,254:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:13,101:INFO:Initializing load_model()
+2022-07-07 10:31:13,105:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:14,396:INFO:Initializing load_model()
+2022-07-07 10:31:14,406:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:15,808:INFO:Initializing load_model()
+2022-07-07 10:31:15,822:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:16,972:INFO:Initializing load_model()
+2022-07-07 10:31:16,973:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:18,342:INFO:Initializing load_model()
+2022-07-07 10:31:18,342:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:19,358:INFO:Initializing load_model()
+2022-07-07 10:31:19,373:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:20,241:INFO:Initializing load_model()
+2022-07-07 10:31:20,241:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:23,625:INFO:Initializing load_model()
+2022-07-07 10:31:23,625:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:25,036:INFO:Initializing load_model()
+2022-07-07 10:31:25,037:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:26,461:INFO:Initializing load_model()
+2022-07-07 10:31:26,461:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:27,863:INFO:Initializing load_model()
+2022-07-07 10:31:27,864:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:28,596:INFO:Initializing load_model()
+2022-07-07 10:31:28,596:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:29,444:INFO:Initializing load_model()
+2022-07-07 10:31:29,445:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:30,973:INFO:Initializing load_model()
+2022-07-07 10:31:30,974:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:31,857:INFO:Initializing load_model()
+2022-07-07 10:31:31,858:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:33,490:INFO:Initializing load_model()
+2022-07-07 10:31:33,490:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:34,356:INFO:Initializing load_model()
+2022-07-07 10:31:34,356:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:34,499:INFO:Initializing load_model()
+2022-07-07 10:31:34,499:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:31:34,532:INFO:Initializing predict_model()
+2022-07-07 10:31:34,533:INFO:predict_model(estimator=SVC(C=100, kernel='linear'), probability_threshold=None, encoded_labels=True, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-07-07 10:31:34,534:INFO:Checking exceptions
+2022-07-07 10:31:34,545:INFO:Preloading libraries
+2022-07-07 10:31:34,547:ERROR:Pipeline not found. Exception:
+2022-07-07 10:31:34,555:ERROR:Traceback (most recent call last):
+  File "D:\Programas\miniconda\app\envs\ApiCrop\lib\site-packages\pycaret\internal\tabular.py", line 8292, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
+2022-07-07 10:36:38,183:INFO:Initializing load_model()
+2022-07-07 10:36:38,183:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:36:42,758:INFO:Initializing load_model()
+2022-07-07 10:36:42,759:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:36:42,789:INFO:Initializing predict_model()
+2022-07-07 10:36:42,789:INFO:predict_model(estimator=SVC(C=100, kernel='linear'), probability_threshold=None, encoded_labels=True, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-07-07 10:36:42,790:INFO:Checking exceptions
+2022-07-07 10:36:42,798:INFO:Preloading libraries
+2022-07-07 10:36:42,800:ERROR:Pipeline not found. Exception:
+2022-07-07 10:36:42,800:ERROR:Traceback (most recent call last):
+  File "D:\Programas\miniconda\app\envs\ApiCrop\lib\site-packages\pycaret\internal\tabular.py", line 8292, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
+2022-07-07 10:36:48,150:INFO:Initializing load_model()
+2022-07-07 10:36:48,150:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:38:14,071:INFO:Initializing load_model()
+2022-07-07 10:38:14,072:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:38:19,197:INFO:Initializing load_model()
+2022-07-07 10:38:19,198:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:38:19,226:INFO:Initializing predict_model()
+2022-07-07 10:38:19,226:INFO:predict_model(estimator=SVC(C=100, kernel='linear'), probability_threshold=None, encoded_labels=True, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-07-07 10:38:19,226:INFO:Checking exceptions
+2022-07-07 10:38:19,239:INFO:Preloading libraries
+2022-07-07 10:38:19,241:ERROR:Pipeline not found. Exception:
+2022-07-07 10:38:19,250:ERROR:Traceback (most recent call last):
+  File "D:\Programas\miniconda\app\envs\ApiCrop\lib\site-packages\pycaret\internal\tabular.py", line 8292, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
+2022-07-07 10:47:57,406:INFO:Initializing load_model()
+2022-07-07 10:47:57,406:INFO:load_model(model_name=pickle_model.pkl, platform=None, authentication=None, verbose=True)
+2022-07-07 10:48:18,228:INFO:Initializing load_model()
+2022-07-07 10:48:18,228:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:48:23,671:INFO:Initializing load_model()
+2022-07-07 10:48:23,671:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:48:23,689:INFO:Initializing predict_model()
+2022-07-07 10:48:23,689:INFO:predict_model(estimator=SVC(C=100, kernel='linear'), probability_threshold=None, encoded_labels=True, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-07-07 10:48:23,690:INFO:Checking exceptions
+2022-07-07 10:48:23,690:INFO:Preloading libraries
+2022-07-07 10:48:23,690:ERROR:Pipeline not found. Exception:
+2022-07-07 10:48:23,691:ERROR:Traceback (most recent call last):
+  File "D:\Programas\miniconda\app\envs\ApiCrop\lib\site-packages\pycaret\internal\tabular.py", line 8292, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
+2022-07-07 10:53:48,333:INFO:Initializing load_model()
+2022-07-07 10:53:48,333:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:54:22,985:INFO:Initializing load_model()
+2022-07-07 10:54:22,985:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:54:35,270:INFO:Initializing load_model()
+2022-07-07 10:54:35,270:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:54:58,897:INFO:Initializing load_model()
+2022-07-07 10:54:58,897:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:55:14,702:INFO:Initializing load_model()
+2022-07-07 10:55:14,702:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:55:18,906:INFO:Initializing load_model()
+2022-07-07 10:55:18,906:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 10:55:18,932:INFO:Initializing predict_model()
+2022-07-07 10:55:18,933:INFO:predict_model(estimator=SVC(C=100, kernel='linear'), probability_threshold=None, encoded_labels=True, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-07-07 10:55:18,933:INFO:Checking exceptions
+2022-07-07 10:55:18,933:INFO:Preloading libraries
+2022-07-07 10:55:18,933:ERROR:Pipeline not found. Exception:
+2022-07-07 10:55:18,934:ERROR:Traceback (most recent call last):
+  File "D:\Programas\miniconda\app\envs\ApiCrop\lib\site-packages\pycaret\internal\tabular.py", line 8292, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
+2022-07-07 17:34:05,127:INFO:Initializing load_model()
+2022-07-07 17:34:05,144:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 17:34:24,225:INFO:Initializing load_model()
+2022-07-07 17:34:24,226:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 17:34:24,316:INFO:Initializing predict_model()
+2022-07-07 17:34:24,316:INFO:predict_model(estimator=SVC(C=100, kernel='linear'), probability_threshold=None, encoded_labels=True, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-07-07 17:34:24,317:INFO:Checking exceptions
+2022-07-07 17:34:24,320:INFO:Preloading libraries
+2022-07-07 17:34:24,320:ERROR:Pipeline not found. Exception:
+2022-07-07 17:34:24,354:ERROR:Traceback (most recent call last):
+  File "D:\Programas\miniconda\app\envs\ApiCrop\lib\site-packages\pycaret\internal\tabular.py", line 8292, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
+2022-07-07 17:39:49,749:INFO:Initializing load_model()
+2022-07-07 17:39:49,750:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 17:59:09,872:INFO:Initializing load_model()
+2022-07-07 17:59:09,876:INFO:load_model(model_name=pickle_model, platform=None, authentication=None, verbose=True)
+2022-07-07 18:32:48,522:INFO:Initializing predict_model()
+2022-07-07 18:32:48,523:INFO:predict_model(estimator=SVC(C=100, kernel='linear'), probability_threshold=None, encoded_labels=True, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-07-07 18:32:48,523:INFO:Checking exceptions
+2022-07-07 18:32:48,524:INFO:Preloading libraries
+2022-07-07 18:32:48,524:ERROR:Pipeline not found. Exception:
+2022-07-07 18:32:48,526:ERROR:Traceback (most recent call last):
+  File "D:\Programas\miniconda\app\envs\ApiCrop\lib\site-packages\pycaret\internal\tabular.py", line 8292, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+
+2022-07-07 18:33:25,705:INFO:Initializing predict_model()
+2022-07-07 18:33:25,706:INFO:predict_model(estimator=SVC(C=100, kernel='linear'), probability_threshold=None, encoded_labels=True, round=4, verbose=True, ml_usecase=MLUsecase.REGRESSION, display=None)
+2022-07-07 18:33:25,706:INFO:Checking exceptions
+2022-07-07 18:33:25,707:INFO:Preloading libraries
+2022-07-07 18:33:25,708:ERROR:Pipeline not found. Exception:
+2022-07-07 18:33:25,708:ERROR:Traceback (most recent call last):
+  File "D:\Programas\miniconda\app\envs\ApiCrop\lib\site-packages\pycaret\internal\tabular.py", line 8292, in predict_model
+    dtypes = prep_pipe.named_steps["dtypes"]
+NameError: name 'prep_pipe' is not defined
+

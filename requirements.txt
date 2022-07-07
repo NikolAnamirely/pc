@@ -2,6 +2,6 @@ gunicorn
 streamlit
 numpy
 pandas
-scikit-learn==1.0.0
+scikit-learn
 pycaret
 Flask
